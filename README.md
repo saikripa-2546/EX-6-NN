@@ -1,7 +1,7 @@
-<H3>ENTER YOUR NAME Rakesh K S</H3>
-<H3>ENTER YOUR REGISTER NO. 212224040264</H3>
+<H3>ENTER YOUR NAME: SAI KRIPA SK </H3>
+<H3>ENTER YOUR REGISTER NO. 212224040284</H3>
 <H3>EX. NO.6</H3>
-<H3>DATE:31/08/2026</H3>
+<H3>DATE:01/09/2026</H3>
 <H1 ALIGN =CENTER>Heart attack prediction using MLP</H1>
 <H3>Aim:</H3>  To construct a  Multi-Layer Perceptron to predict heart attack using Python
 <H3>Algorithm:</H3>
